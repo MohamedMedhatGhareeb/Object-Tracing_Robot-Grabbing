@@ -1,6 +1,6 @@
 # Object-Tracing_Robot-Grabbing
 
-##**Using OpenCV library in Pythons communicating with an Arduino Uno throw the Serial Port to control a conveyor if a certain product depends on its color.**
+##**Using OpenCV library in Pythons communicating with an Arduino Uno through the Serial Port to control a conveyor if a certain product depends on its color.**
 
 _This application of image processing concepts can be implemented in production lines with assistance of a robot arm to improve its efficiency._
 
