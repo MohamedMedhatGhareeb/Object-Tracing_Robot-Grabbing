@@ -4,13 +4,14 @@
 
 _This application of image processing concepts can be implemented in production lines with assistance of a robot arm to improve its efficiency._
 
-~~in our demo we initially used a human arm for now,  when the we finish the Robot Arm Project we will update the repository :) ~~
+~~in our demo we used a Small Robot Arm for now, when the we finish the  Project we will update the repository :) ~~
 
 **The code works as follows:**
 
 - Detects a certain product on the conveyor 
-- Sends a signal to the Arduino to stop the conveyor when the product reaches a certain position until it is removed from the conveyor
-- The conveyor resumes its work again
+- Sends a signal to the Arduino to stop the conveyor 
+- When the product reaches a certain position, it is removed from the conveyor by the Robot 
+arm
 
 
 ## Done By (GAS TEAM):
