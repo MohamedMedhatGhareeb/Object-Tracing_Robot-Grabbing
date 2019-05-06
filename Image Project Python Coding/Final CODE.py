@@ -121,6 +121,8 @@ while True:
         center = (int(M["m10"] / M["m00"]), int(M["m01"] / M["m00"]))
 
         # only proceed if the radius meets a minimum size
+        
+        # Choose suitable size of radius ( 50 - 20 )
 
         if radius > 40:
 
@@ -174,6 +176,8 @@ while True:
 # halt the Operation when Press "ESC"
 
     key = cv2.waitKey(1)
+
+# select a desired key to halt the program (ex: 27 -->> ESC)
 
     if key == 27:
 
