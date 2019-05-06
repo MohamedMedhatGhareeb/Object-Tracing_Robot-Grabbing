@@ -4,7 +4,7 @@
 
 _This application of image processing concepts can be implemented in production lines with assistance of a robot arm to improve its efficiency._
 
-~~in our demo we used a Small Robot Arm for now, when the we finish the  Project we will update the repository :) ~~
+~~in our demo we used a Small Robot Arm for now, when we finish the  Project we will update the repository :) ~~
 
 **The code works as follows:**
 
